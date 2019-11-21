@@ -16,6 +16,10 @@ html {
   background-size: cover;
 }
 
+a:focus {
+  outline-color: #fff;
+}
+
 .btn:not(.btn-ghost) {
   background-color: #8d483b;
   border-color: #8d483b;
